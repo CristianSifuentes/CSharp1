@@ -1,7 +1,7 @@
 ﻿﻿using System;
 
 // Namespace encapsulating the entire application
-namespace CoreObjectOrientedFeatures
+namespace CSharp1FeaturesDemo
 {
     // Abstract Class (base for all animals)
     public abstract class Animal
